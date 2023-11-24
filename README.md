@@ -12,7 +12,7 @@
 Projeto desenvolvido para o curso de Desenvolvimento de Jogos com JavaScript da DIO em parceria com Ifood e Potencia Tech. Foi desenvolvido um jogo de memória com os personagens de Genshin Impact. O usuario deve acertar todos os pares para finalizar o jogo. É possivel resetar o game a qualquer momento.
 
 ## 2. Deploy📝
-### 📎[Acesse aqui](https://nicoletsingas.github.io/Genshin-Memory-Game2/)
+### 📎[Acesse aqui](https://nicoletsingas.github.io/Genshin-Memory-Game/)
 ![preview](src/assets/preview1.png)
 
 ## 3. Tecnologias Utilizadas✅ 
