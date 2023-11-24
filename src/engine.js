@@ -103,18 +103,13 @@ const randomChar = characters.sort(() => (Math.random() > 0.5 ? 2 : -1));
 for(let i = 0; i < characters.length; i++){
   const cardContainer = document.createElement('div');
   cardContainer.classList.add('item');
-
   const img = document.createElement('img');
   img.src = window.location.href.includes('index.html') ? window.location.origin + randomChar[i].imgChar : window.location.href + randomChar[i].imgChar;
 
-  console.log(window.location);
-
-  console.log(img.src);
   cardContainer.appendChild(img);
   cardContainer.onclick = randomClick;
 
   document.querySelector('.game').appendChild(cardContainer);
-
 }
 
 function randomClick() {
