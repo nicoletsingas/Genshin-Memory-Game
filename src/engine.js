@@ -1,99 +1,99 @@
 const characters = [
   {
-    imgChar: '../src/assets/ayato.png',
+    imgChar: '../../src/assets/ayato.png',
   },
   {
-    imgChar: '../src/assets/ayato.png',
+    imgChar: '../../src/assets/ayato.png',
   },
   {
-    imgChar: '../src/assets/cyno.png',
+    imgChar: '../../src/assets/cyno.png',
   },
   {
-    imgChar: '../src/assets/cyno.png',
+    imgChar: '../../src/assets/cyno.png',
   },
   {
-    imgChar: '../src/assets/kaeya.png',
+    imgChar: '../../src/assets/kaeya.png',
   },
   {
-    imgChar: '../src/assets/kaeya.png',
+    imgChar: '../../src/assets/kaeya.png',
   },
   {
-    imgChar: '../src/assets/kazuha.png',
+    imgChar: '../../src/assets/kazuha.png',
   },
   {
-    imgChar: '../src/assets/kazuha.png',
+    imgChar: '../../src/assets/kazuha.png',
   },
   {
-    imgChar: '../src/assets/kokomi.png',
+    imgChar: '../../src/assets/kokomi.png',
   },
   {
-    imgChar: '../src/assets/kokomi.png',
+    imgChar: '../../src/assets/kokomi.png',
   },
   {
-    imgChar: '../src/assets/lyney.png',
+    imgChar: '../../src/assets/lyney.png',
   },
   {
-    imgChar: '../src/assets/lyney.png',
+    imgChar: '../../src/assets/lyney.png',
   },
   {
-    imgChar: '../src/assets/nahida.png',
+    imgChar: '../../src/assets/nahida.png',
   },
   {
-    imgChar: '../src/assets/nahida.png',
+    imgChar: '../../src/assets/nahida.png',
   },
   {
-    imgChar: '../src/assets/noelle.png',
+    imgChar: '../../src/assets/noelle.png',
   },
   {
-    imgChar: '../src/assets/noelle.png',
+    imgChar: '../../src/assets/noelle.png',
   },
   {
-    imgChar: '../src/assets/raiden.png',
+    imgChar: '../../src/assets/raiden.png',
   },
   {
-    imgChar: '../src/assets/raiden.png',
+    imgChar: '../../src/assets/raiden.png',
   },
   {
-    imgChar: '../src/assets/shenhe.png',
+    imgChar: '../../src/assets/shenhe.png',
   },
   {
-    imgChar: '../src/assets/shenhe.png',
+    imgChar: '../../src/assets/shenhe.png',
   },
   {
-    imgChar: '../src/assets/tighnari.png',
+    imgChar: '../../src/assets/tighnari.png',
   },
   {
-    imgChar: '../src/assets/tighnari.png',
+    imgChar: '../../src/assets/tighnari.png',
   },
   {
-    imgChar: '../src/assets/traveler.png',
+    imgChar: '../../src/assets/traveler.png',
   },
   {
-    imgChar: '../src/assets/traveler.png',
+    imgChar: '../../src/assets/traveler.png',
   },
   {
-    imgChar: '../src/assets/xiangling.png',
+    imgChar: '../../src/assets/xiangling.png',
   },
   {
-    imgChar: '../src/assets/xiangling.png',
+    imgChar: '../../src/assets/xiangling.png',
   },
   {
-    imgChar: '../src/assets/zhongli.png',
+    imgChar: '../../src/assets/zhongli.png',
   },
   {
-    imgChar: '../src/assets/zhongli.png',
+    imgChar: '../../src/assets/zhongli.png',
   },
   {
-    imgChar: '../src/assets/qiqi.png',
+    imgChar: '../../src/assets/qiqi.png',
   },
   {
-    imgChar: '../src/assets/qiqi.png',
+    imgChar: '../../src/assets/qiqi.png',
   },
   {
-    imgChar: '../src/assets/traveler2.png',
+    imgChar: '../../src/assets/traveler2.png',
   },
   {
-    imgChar: '../src/assets/traveler2.png',
+    imgChar: '../../src/assets/traveler2.png',
   },
 ];
 let openCards = [];
