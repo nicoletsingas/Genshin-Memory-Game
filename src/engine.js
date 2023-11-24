@@ -106,7 +106,7 @@ for(let i = 0; i < characters.length; i++){
 
   const img = document.createElement('img');
   img.src = window.location.origin + randomChar[i].imgChar;
-  console.log("Location",window.location.origin);
+  console.log(window.location);
   console.log(img.src);
   cardContainer.appendChild(img);
   cardContainer.onclick = randomClick;
