@@ -1,9 +1,9 @@
 const characters = [
   {
-    imgChar: '../../src/assets/ayato.png',
+    imgChar: '../../../src/assets/ayato.png',
   },
   {
-    imgChar: '../../src/assets/ayato.png',
+    imgChar: '../../../src/assets/ayato.png',
   },
   {
     imgChar: '../../src/assets/cyno.png',
