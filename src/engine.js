@@ -106,6 +106,7 @@ for(let i = 0; i < characters.length; i++){
 
   const img = document.createElement('img');
   img.src = randomChar[i].imgChar;
+  console.log(img.src);
   cardContainer.appendChild(img);
   cardContainer.onclick = randomClick;
 
@@ -124,7 +125,7 @@ function randomClick() {
 }
 
 function checkMatchCards() {
-  if(openCards[0].firstElementChild.src === openCards[1].firstElementChild.src){
+  if(openCards[0].innerHTML === openCards[1].innerHTML){
     openCards[0].classList.add('matchCards');
     openCards[1].classList.add('matchCards');
   } else {
