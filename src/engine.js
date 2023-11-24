@@ -105,15 +105,16 @@ for(let i = 0; i < characters.length; i++){
   cardContainer.classList.add('item');
 
   const img = document.createElement('img');
-  img.src = window.location.origin + randomChar[i].imgChar;
+  img.src = window.location.href.includes('index.html') ? window.location.origin + randomChar[i].imgChar : window.location.href + randomChar[i].imgChar;
 
   console.log(window.location);
-  
+
   console.log(img.src);
   cardContainer.appendChild(img);
   cardContainer.onclick = randomClick;
 
   document.querySelector('.game').appendChild(cardContainer);
+
 }
 
 function randomClick() {
